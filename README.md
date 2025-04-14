@@ -9,6 +9,8 @@
 
 ![Areej's GitHub stats](https://github-readme-stats.vercel.app/api?username=areejmazhar&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areejmazhar&layout=compact&theme=radical)
+
 <h3 align="left"> Languages: </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
