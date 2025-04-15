@@ -2,7 +2,7 @@
 <h3 align="center"> BS Computer Science Student </h3>
 
 👩🏻‍🎓 Studying BS Computer Science at the Institute of Business Management, Karachi, Pakistan. </br>
-🎯 Currently exploring software development and Database Management Systems. </br>
+🎯 Currently exploring Software Development and Database Management Systems. </br>
 🚀 Passionate about building things that solve real problems, and fun games. </br>
 
 </br>
